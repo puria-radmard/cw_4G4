@@ -1,0 +1,10 @@
+*.m
+__pycache__
+.ipynb_checkpoints
+*.m
+
+question_1_plotting_functions/__pycache__
+question_2_plotting_functions/__pycache__
+
+*.mp4
+*.mat
